@@ -65,7 +65,11 @@ def adding_matz
 #   :known_for => "Ruby",
 #    :languages => ["LISP", "C"]
 # }
-
+yukihiro_matsumoto = :yukihiro_matsumoto => {
+  	 :known_for => "Ruby",
+	   :languages => ["LISP", "C"]
+#}
+programmer_hash_new =
 	programmer_hash =
  		{
         :grace_hopper => {
